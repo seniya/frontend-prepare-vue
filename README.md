@@ -25,3 +25,6 @@ corepack enable
 corepack prepare pnpm@7.27.0 --activate
 
 pnpm create vite
+
+
+https://sg-choi.tistory.com/123
