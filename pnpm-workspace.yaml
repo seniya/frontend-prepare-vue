@@ -1,0 +1,7 @@
+packages:
+  - backend
+  - frontend
+  # executable/launchable applications
+  - 'apps/*'
+  # all packages in subdirs of packages/ and components/
+  - 'packages/*'
